@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishnu-Bijjam
-- 👀 I’m interested in Full Stack and Data science Projects
+- 👀 I’m interested in Data science Projects
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on open source projects in Data science
 - 📫 How to reach me ...through linkedIn in bio
